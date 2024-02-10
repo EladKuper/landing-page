@@ -5,3 +5,7 @@ body {
 header {
     display: flex;
 }
+
+ul {
+    list-style: none;
+}
