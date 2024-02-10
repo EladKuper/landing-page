@@ -5,10 +5,16 @@ body {
 header {
     display: flex;
     align-items: center;
+    background-color: #1F2937;
+    color: white;
 }
 
 ul {
     list-style: none;
     display: flex;
     gap: 32px;
+}
+
+a {
+    color: white;
 }
