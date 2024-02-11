@@ -36,9 +36,10 @@ a {
 .right {
     background-color: gray;
     border: red 1px solid;
+    flex: 0 0 auto;
 }
 
-.left.right {
+.left {
     flex-grow: 1;
     flex-shrink: 1;
 }
