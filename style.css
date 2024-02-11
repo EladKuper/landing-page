@@ -35,7 +35,6 @@ a {
 
 .right {
     background-color: gray;
-    border: red 1px solid;
     flex: 0 0 auto;
     width: 50%;
 }
