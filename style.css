@@ -88,15 +88,16 @@ a {
     border-radius: 8px;
 }
 
-.container.quote {
-    background-color: #E5E7EB;
-    color: #1F2937;
-}
-
 .information .head {
     font-size: 27px;
     font-weight: bolder;
     color: #1F2937;
+}
+
+.container.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    flex-direction: column;
 }
 
 .container.bottom {
