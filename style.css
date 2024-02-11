@@ -98,17 +98,18 @@ a {
     background-color: #E5E7EB;
     color: #1F2937;
     flex-direction: column;
-    font-size: 27px;
-    font-style: italic;
 }
 
 #one {
     margin: 100px 350px 0px;
+    font-size: 27px;
+    font-style: italic;
 }
 
 #two {
     margin: 0px 350px 100px auto;
-    m 
+    font-size: large;
+    font-weight: 900;
 }
 
 .container.bottom {
