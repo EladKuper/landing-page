@@ -86,11 +86,11 @@ a {
 .illus {
     border: #3882F6 3px solid;
     border-radius: 8px;
-    height: 100%;
 }
 
 .container.quote {
     background-color: #E5E7EB;
+    color: #1F2937;
 }
 
 .information .head {
@@ -98,4 +98,15 @@ a {
     font-weight: bolder;
     color: #1F2937;
 }
+
+.container.bottom {
+    justify-content: center;
+}
+
+.bottom .container {
+    border: red 1px solid;
+    background-color: #3882F6;
+}
+
+
 
