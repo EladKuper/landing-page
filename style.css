@@ -35,6 +35,8 @@ a {
 
 .right {
     background-color: gray;
+    border: red 1px solid;
+    flex-grow: 1;
 }
 
 .container h1 {
