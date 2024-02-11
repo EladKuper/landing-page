@@ -71,10 +71,6 @@ a {
     border-radius: 8px;
 }
 
-.ilus {
-    border: blue 1px solid;
-}
-
 .container.information {
     flex-direction: column;
     align-items: center;
@@ -82,6 +78,11 @@ a {
 
 .illustrations {
     display: flex;
+    margin: 0px 300px 100px;
+}
+
+.illus {
+    border: #3882F6 2px solid;
 }
 
 .container.quote {
@@ -94,6 +95,3 @@ a {
     color: #1F2937;
 }
 
-.illus {
-    /* border: ;*/
-}
