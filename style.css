@@ -58,7 +58,7 @@ a {
     font-weight: bolder;
 }
 
-.container p {
+.container.hero p {
     font-size: 18px;
     color: #E5E7EB;
     min-width: none;
@@ -122,5 +122,10 @@ a {
 
 .bottom .container p {
      font-size: medium;
+}
+
+footer {
+    background-color: #1F2937;
+    color: white;
 }
 
