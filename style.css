@@ -26,6 +26,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    background-color: gray;
+}
+
+
 .container {
     display: flex;
 }
