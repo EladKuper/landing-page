@@ -113,15 +113,16 @@ a {
 }
 
 .bottom .container button {
-    border: white 2px solid;
+    border: #E5E7EB 2px solid;
 }
 
 .bottom .container h3 {
-    color: white;
+    color: #E5E7EB;
 }
 
 .bottom .container p {
      font-size: medium;
+     color: #E5E7EB;
 }
 
 footer {
