@@ -48,3 +48,10 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.container button {
+    color: white;
+    background-color: #3882F6;
+    padding: 8px 32px;
+    border-radius: 8px;
+}
