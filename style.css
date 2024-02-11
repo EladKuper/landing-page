@@ -104,9 +104,23 @@ a {
 }
 
 .bottom .container {
-    border: red 1px solid;
     background-color: #3882F6;
+    margin: 80px;
+    border-radius: 8px;
+    padding: 20px 100px;
+    align-items: center;
+    gap: 100px;
 }
 
+.bottom .container button {
+    border: white 2px solid;
+}
 
+.bottom .container h3 {
+    color: white;
+}
+
+.bottom .container p {
+     font-size: medium;
+}
 
