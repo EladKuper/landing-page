@@ -102,12 +102,13 @@ a {
     font-style: italic;
 }
 
-.quote p {
-    margin: 100px 300px;
+#one {
+    margin: 100px 350px 0px;
 }
 
-#one {
-   margin-top: -100px; 
+#two {
+    margin: 0px 350px 100px auto;
+    m 
 }
 
 .container.bottom {
