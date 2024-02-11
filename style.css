@@ -141,5 +141,8 @@ a {
 footer {
     background-color: #1F2937;
     color: white;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
 
