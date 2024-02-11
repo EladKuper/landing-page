@@ -32,3 +32,13 @@ a {
 .right {
     background-color: gray;
 }
+
+.container h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.container p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
