@@ -28,6 +28,11 @@ a {
 
 .container {
     display: flex;
+    
+    
+}
+
+.container.hero {
     background-color: #1F2937;
     color: white;
     padding: 150px 200px;
@@ -40,7 +45,7 @@ a {
     display: flex;
 }
 
-.left p {
+.right p {
     justify-content: center;
     align-items: center;
 }
@@ -49,6 +54,8 @@ a {
     flex-grow: 1;
     flex-shrink: 1;
 }
+
+
 
 .container h1 {
     font-size: 48px;
