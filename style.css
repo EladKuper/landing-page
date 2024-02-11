@@ -53,8 +53,6 @@ a {
     flex-shrink: 1;
 }
 
-
-
 .container h1 {
     font-size: 48px;
     font-weight: bolder;
@@ -83,4 +81,8 @@ a {
 
 .illustrations {
     display: flex;
+}
+
+.container.quote {
+    background-color: #E5E7EB;
 }
