@@ -24,4 +24,9 @@ a {
 
 .container {
     display: flex;
+    background-color: #1F2937;
+}
+
+.right {
+    background-color: gray;
 }
