@@ -79,10 +79,14 @@ a {
 .illustrations {
     display: flex;
     margin: 0px 300px 100px;
+    gap: 40px;
+    text-align: center;
 }
 
 .illus {
-    border: #3882F6 2px solid;
+    border: #3882F6 3px solid;
+    border-radius: 8px;
+    height: 100%;
 }
 
 .container.quote {
